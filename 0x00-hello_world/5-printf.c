@@ -2,7 +2,7 @@
 /**
  * main - a programe that print a line
  *
- * return: 0
+ * Return: 0 (Seccuss)
  */
 
 int main(void)
