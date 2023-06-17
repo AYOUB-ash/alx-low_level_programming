@@ -4,7 +4,7 @@
 
 /**
  * main - Prints the alphabet without q and e.
- * Inside the main function, an integer variable i is declared. This variable will be used to iterate through the ASCII values of the lowercase alphabet.
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
