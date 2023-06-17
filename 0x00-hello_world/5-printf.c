@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  * main - a programe that print a line
- * return to 0
+ * return: 0
  */
 
 int main(void)
