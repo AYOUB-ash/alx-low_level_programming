@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
- * main
- * return to 0 (Seccuss)
+ * main - a programe that print a line
+ * return to 0
  */
 
 int main(void)
