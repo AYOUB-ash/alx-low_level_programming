@@ -1,10 +1,10 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * create_array - create array of size size and assign char c
- * @size: size of array
- * @c: char to assign
- * Description: create array of size size and assign char c
+ * create_array - as descrepted create array of size and assign char c
+ * @size: is the size of array
+ * @c: the char to assign
+ * Description: to create array of size size and assign char c
  * Return: pointer to array, NULL if fail
  *
  */
