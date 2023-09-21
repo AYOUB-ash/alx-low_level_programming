@@ -3,9 +3,9 @@
 #include "lists.h"
 
 /**
- * add_node_end - adds a new node at the end of a linked list
- * @head: double pointer to the list_t list
- * @str: string to put in the new noe
+ * add_node_end - one more time the F that adds a new node at the end of a linked list
+ * @head: the double pointer to the list_t list
+ * @str: a string to put in the new noe
  * Return: address of the new element, or NULL if it failed
  */
 list_t *add_node_end(list_t **head, const char *str)
